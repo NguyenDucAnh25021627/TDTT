@@ -1,0 +1,1 @@
+print(f"Your n doubled{int(input("Input a number: ")) * 2}")
